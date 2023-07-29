@@ -1,4 +1,6 @@
-                         # Railway-Ticketing-System-cpp-dsa
+
+                                  # RAILWAY TICKET BOOKING SYSTEM  
+                        
 **1.1) Project Description:**
 In this project of Railway Booking Management System, we will be
  implementing the ability to reserve and modify railway tickets. We will
@@ -10,14 +12,18 @@ modules in this scenario, where a user or the passenger, has their own
 options while admin has to login separately before having their own
 options. It works from the entering of user details, to payment, to
 printing of tickets and other operations are available as well.
+
 **1.2) Project Scope:**
+
 The scope of this project is to help a user reserve and modify their
 tickets without any hassle. This program will allow a user to reserve a
 ticket, edit their personal details, ask for a refund or cancel booking and
 view the reserved ticket. An Admin Panel will allow admins to View all
 the booked tickets, Add or Remove scheduled trains and Modify/Cancel
 a Ticket on User Request.
+
 **1.1) Project Description:**
+
 In this project of Railway Booking Management System, we will be
 implementing the ability to reserve and modify railway tickets. We will
 use Linked List Operations, Searching & Sorting Algorithms to modify
@@ -28,25 +34,33 @@ modules in this scenario, where a user or the passenger, has their own
 options while admin has to login separately before having their own
 options. It works from the entering of user details, to payment, to
 printing of tickets and other operations are available as well.
+
 **1.2) Project Scope:**
+
 The scope of this project is to help a user reserve and modify their
 tickets without any hassle. This program will allow a user to reserve a
 ticket, edit their personal details, ask for a refund or cancel booking and
 view the reserved ticket. An Admin Panel will allow admins to View all
 the booked tickets, Add or Remove scheduled trains and Modify/Cancel
 a Ticket on User Request.
+
 **1.3) Modules in Project:**
+
 This program has 2 Modules:
 User Module:
 This module is for user or the passenger to book their ticket, make
 payments for ticket directly, modify their ticket, ask for a refund, and
 print/generate their ticket.
+
 **Admin Module:**
+
 This module allows admins to View all the booked tickets, Add or
 Remove Trains and Modify a ticket or remove it on a passenger’s
 request.
+
 **1.4) Project Features:**
-User Module:
+
+_User Module:_
 - Reserve a Ticket: Allows user to Reserve Tickets for available trains on desirable dates.
   We will be using linked list operations to insert ticket details.
 - Choose Payment Methods & Pay: Allows user to pay for the
@@ -71,20 +85,25 @@ saved.
 We will be using linked list operations to display all tickets details.
 - Add or Remove Trains: Add or Remove Available Trains from
 Database.
-We will be using linked list operations to display all trains details.
+- We will be using linked list operations to display all trains details.
 - Modify Booked Tickets (based on User Requests): Tickets
 booked can be modified.
 We will be using linked list operations to edit ticket details.
-2.Requirements Specification:
-2.1) Hardware Specifications:
+
+**2.Requirements Specification:**
+  
+_2.1) Hardware Specifications_:
 - Dual Core x86 Processor or above.
 - 2GB RAM minimum or above.
 - Minimum 20GB Hardware required.
-2.1) Software Specification:
+_2.1) Software Specification:_
 - Visual Studio 2015
 - Microsoft Windows 7 or above required.
+  
 **3. SYSTEM IMPLEMENTATION:**
-**3.1) INTRODUCTION:**
+  
+_**3.1) INTRODUCTION:**_
+
 In this project of Railway Booking Management System, we
 implemented the ability to reserve and modify railway tickets.
 We used Linked List Operations, Searching & Sorting Algorithms
@@ -100,14 +119,17 @@ Admin Module:
 This module allows admins to View all the booked tickets, Add or
 Remove Trains and Modify a ticket or remove it on a passenger’s
 request.
+
 **1.4) Project Features:**
-**User Module:**
+
+_**User Module:**_
+
 - Reserve a Ticket: Allows user to Reserve Tickets for available trains on
 desirable dates.
-We will be using linked list operations to insert ticket details.
+- We will be using linked list operations to insert ticket details.
 - Choose Payment Methods & Pay: Allows user to pay for the
 ticket using Credit Card Details.
-We will use simply hard-coded Input/output for this feature as
+- We will use simply hard-coded Input/output for this feature as
 there is no other way to check Credit Card details i.e. No
 Databases used.
 - Cancel/Refund Booked Tickets: Allows user to Cancel and Refund
@@ -131,16 +153,21 @@ Database.
 We will be using linked list operations to display all trains details.
 - Modify Booked Tickets (based on User Requests): Tickets
 booked can be modified.
-We will be using linked list operations to edit ticket details.
+- We will be using linked list operations to edit ticket details.
+  
 **2.Requirements Specification:**
+  
 **2.1) Hardware Specifications:**
+
 - Dual Core x86 Processor or above.
 - 2GB RAM minimum or above.
 - Minimum 20GB Hardware required.
-2.1) Software Specification:
+_2.1) Software Specification:_
 - Visual Studio 2015
 - Microsoft Windows 7 or above required.
+
 **3. SYSTEM IMPLEMENTATION:**
+  
 In this project of Railway Booking Management System, we
 implemented the ability to reserve and modify railway tickets.
 We used Linked List Operations, Searching & Sorting Algorithms
