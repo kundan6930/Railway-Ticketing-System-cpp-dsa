@@ -22,28 +22,6 @@ view the reserved ticket. An Admin Panel will allow admins to View all
 the booked tickets, Add or Remove scheduled trains and Modify/Cancel
 a Ticket on User Request.
 
-**1.1) Project Description:**
-
-In this project of Railway Booking Management System, we will be
-implementing the ability to reserve and modify railway tickets. We will
-use Linked List Operations, Searching & Sorting Algorithms to modify
-and print the data according to user’s needs. This project is simple to
-use and very user-friendly. It has minimal hardware and software
-requirements, and no training is needed for using it. We have 2
-modules in this scenario, where a user or the passenger, has their own
-options while admin has to login separately before having their own
-options. It works from the entering of user details, to payment, to
-printing of tickets and other operations are available as well.
-
-**1.2) Project Scope:**
-
-The scope of this project is to help a user reserve and modify their
-tickets without any hassle. This program will allow a user to reserve a
-ticket, edit their personal details, ask for a refund or cancel booking and
-view the reserved ticket. An Admin Panel will allow admins to View all
-the booked tickets, Add or Remove scheduled trains and Modify/Cancel
-a Ticket on User Request.
-
 **1.3) Modules in Project:**
 
 This program has 2 Modules:
